@@ -22,5 +22,13 @@
     "morgan": "^1.10.0",
     "nodemon": "^3.0.1",
     "vitest": "^0.34.6"
-  }
+  },
+  "description": "Feel free to delete this and start from scratch.",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
